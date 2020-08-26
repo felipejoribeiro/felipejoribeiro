@@ -17,7 +17,6 @@
 
 ### Connect with me:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eduardoerror)](https://github.com/eduardoerror)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/eduardo-amaro-maciel-25b808187/)](https://www.linkedin.com/in/eduardo-amaro-maciel-25b808187/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://https://www.instagram.com/eduamaro.m/)](https://www.instagram.com/felipe_joribeiro/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-oRANGE?style=flat-quare&labelColor=orange&logo=stackoverflow&logoColor=white&link=https://https://www.instagram.com/eduamaro.m/)](https://stackoverflow.com/users/10725677/felipe-j-o-ribeiro)
