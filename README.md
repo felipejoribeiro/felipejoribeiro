@@ -5,10 +5,11 @@
 - 👨 I’m currently working on:
   - 3D print automation.
   - Fluid mechanics research.
+  - FrontEnd Web development.
   
 - 👶 I’m currently learning:
   - Artificial intelligence.
-  - FullStack Web development.
+  - BackEnd Web development.
   - Image and 3D geometry processing. 
   
 - ⚡ Fun fact: I love art stuff too (that`s why there is a DeviantArt account bellow).
@@ -42,6 +43,12 @@
 <code><img alt="Blender" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0c%2FBlender_logo_no_text.svg%2F1252px-Blender_logo_no_text.svg.png&f=1&nofb=1" /></code>
 <code><img alt="Solid Works" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.filemoro.com%2Fwp-content%2Fuploads%2F2018%2F12%2Fsolidworks.png&f=1&nofb=1" /></code>
 <code><img alt="Catia" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fde%2Fthumb%2F6%2F6b%2FCATIA_logo.svg%2F616px-CATIA_logo.svg.png&f=1&nofb=1" /></code>
+
+### Some fun projects:
+- [Simple TODO](https://felipejoribeiro.github.io/simple_todo/): Developed with css, html and javascript. A place in the web to get stuff done, in a simple way.
+- [Gradient BACKGROUND GENERATOR](https://felipejoribeiro.github.io/simple_back_ground_picker/): Developed with css, html and javascript. Beautiful css gradients generator.
+- [Agni3D](http://agni3d.com/): Developed with css, html and javascript. A market place for 3D printing stuff.
+- [feliperibeiro.space](https://feliperibeiro.space/): Developed with css, html and javascript. A personal portfolio website.
 
 ---
 
