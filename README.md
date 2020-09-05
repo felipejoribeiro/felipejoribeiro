@@ -6,11 +6,12 @@
   - 3D print automation.
   - Fluid mechanics research.
   - FrontEnd Web development.
+  - Unity Game development.
   
 - 👶 I’m currently learning:
   - Artificial intelligence.
   - BackEnd Web development.
-  - Image and 3D geometry processing. 
+  - Image and 3D geometry processing.
   
 - ⚡ Fun fact: I love art stuff too (that`s why there is a DeviantArt account bellow).
 
