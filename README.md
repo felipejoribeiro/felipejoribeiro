@@ -12,7 +12,7 @@
   - Artificial intelligence.
   - BackEnd Web development.
   - Image and 3D geometry processing.
-  - Non-rigid body dynamics.
+  - rigid and soft body dynamics. 
   
 - ⚡ Fun fact: I love art stuff too (that`s why there is a DeviantArt account bellow).
 
