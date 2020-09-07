@@ -29,6 +29,8 @@
 ### Some tools and languages:
 <code><img alt="Python" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fclipart-library.com%2Fnew_gallery%2F289-2896071_python-logo-png-165709.png&f=1&nofb=1" /></code>
 <code><img alt="Fortran" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkrvajalm.gallerycdn.vsassets.io%2Fextensions%2Fkrvajalm%2Flinter-gfortran%2F2.0.1%2F1540148929216%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1" /></code>
+<code><img alt="C++" width="40px" src="https://isocpp.org/files/img/cpp_logo.png" /></code>
+<code><img alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" /></code>
 <code><img alt="Visual studio code" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FVisual_Studio_Code_1.35_icon.svg%2F1200px-Visual_Studio_Code_1.35_icon.svg.png&f=1&nofb=1" /></code>
 <code><img alt="Sublime text" width="40px" src="https://3.bp.blogspot.com/-xUddQNvN60A/VrtwiIx_kgI/AAAAAAAAL2s/RDvHAvYBiXA/s1600/sublime.png" /></code>
 <code><img alt="HTML5" width="40px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
@@ -36,14 +38,17 @@
 <code><img alt="Sass" width="40px" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" /></code>
 <code><img alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
 <code><img alt="React" width="40px" src="https://cdn.worldvectorlogo.com/logos/react.svg" /></code>
+<code><img alt="Deno" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" /></code>
 <code><img alt="NodeJs" width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></code>
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
 <code><img alt="LaTex" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F95%2FTeXShop_icon.png%2F600px-TeXShop_icon.png&f=1&nofb=1" /></code>
 <code><img alt="Matlab" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmatlababc.files.wordpress.com%2F2015%2F08%2Fmatlab_logo.png&f=1&nofb=1" /></code>
+<code><img alt="Arduino" width="40px" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" /></code>
 <code><img alt="Photoshop" width="40px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" /></code>
 <code><img alt="Blender" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0c%2FBlender_logo_no_text.svg%2F1252px-Blender_logo_no_text.svg.png&f=1&nofb=1" /></code>
 <code><img alt="Solid Works" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.filemoro.com%2Fwp-content%2Fuploads%2F2018%2F12%2Fsolidworks.png&f=1&nofb=1" /></code>
 <code><img alt="Catia" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fde%2Fthumb%2F6%2F6b%2FCATIA_logo.svg%2F616px-CATIA_logo.svg.png&f=1&nofb=1" /></code>
+<code><img alt="unity" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" /></code>
 
 ### Some fun projects:
 - [Simple TODO](https://felipejoribeiro.github.io/simple_todo/): Developed with css, html and javascript. A place in the web to get stuff done, in a simple way.
