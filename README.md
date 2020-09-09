@@ -33,6 +33,7 @@
 <code><img alt="C++" width="40px" src="https://isocpp.org/files/img/cpp_logo.png" /></code>
 <code><img alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" /></code>
 <code><img alt="Visual studio code" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FVisual_Studio_Code_1.35_icon.svg%2F1200px-Visual_Studio_Code_1.35_icon.svg.png&f=1&nofb=1" /></code>
+<code><img alt="Vim" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" /></code>
 <code><img alt="Sublime text" width="40px" src="https://3.bp.blogspot.com/-xUddQNvN60A/VrtwiIx_kgI/AAAAAAAAL2s/RDvHAvYBiXA/s1600/sublime.png" /></code>
 <code><img alt="HTML5" width="40px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
 <code><img alt="CSS" width="40px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
