@@ -43,6 +43,8 @@
 <code><img alt="Deno" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" /></code>
 <code><img alt="NodeJs" width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></code>
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
+<code><img alt="SQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-15.png" /></code>
+<code><img alt="Apache2" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/apache-8-1174973.png" /></code>
 <code><img alt="LaTex" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F95%2FTeXShop_icon.png%2F600px-TeXShop_icon.png&f=1&nofb=1" /></code>
 <code><img alt="Matlab" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmatlababc.files.wordpress.com%2F2015%2F08%2Fmatlab_logo.png&f=1&nofb=1" /></code>
 <code><img alt="Arduino" width="40px" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" /></code>
