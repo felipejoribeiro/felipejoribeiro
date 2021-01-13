@@ -2,6 +2,7 @@
 
 <div style="font-size:1rem;display: flex;flex-direction: column; align-items:center;justify-content: center;font-family: 'Times', sans-serif;">
 
+
 - 👨 I’m currently working on:
   - 3D print automation.
   - Fluid mechanics research.
@@ -68,9 +69,7 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=felipejoribeiro&show_icons=true&hide_border=true&count_private=true&hide=issues" />
-</a> 
-
-[![](https://raw.githubusercontent.com/felipejoribeiro/felipejoribeiro/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+![![](./profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
