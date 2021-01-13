@@ -72,5 +72,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=felipejoribeiro&show_icons=true&hide_border=true&count_private=true&hide=issues" />
 </a> 
 
-
+[![](https://raw.githubusercontent.com/felipejoribeiro/felipejoribeiro/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
