@@ -35,20 +35,21 @@
 <code><img alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" /></code>
 <code><img alt="Visual studio code" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FVisual_Studio_Code_1.35_icon.svg%2F1200px-Visual_Studio_Code_1.35_icon.svg.png&f=1&nofb=1" /></code>
 <code><img alt="Vim" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" /></code>
-<code><img alt="Sublime text" width="40px" src="https://3.bp.blogspot.com/-xUddQNvN60A/VrtwiIx_kgI/AAAAAAAAL2s/RDvHAvYBiXA/s1600/sublime.png" /></code>
 <code><img alt="Linux" width="40px" src="https://image.flaticon.com/icons/png/512/25/25719.png" /></code>
 <code><img alt="HTML5" width="40px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
 <code><img alt="CSS" width="40px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
 <code><img alt="Sass" width="40px" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" /></code>
 <code><img alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
 <code><img alt="React" width="40px" src="https://cdn.worldvectorlogo.com/logos/react.svg" /></code>
-<code><img alt="Deno" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" /></code>
-<code><img alt="NodeJs" width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></code>
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
+
+[comment]: <> (<code><img alt="Deno" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" /></code>
+<code><img alt="NodeJs" width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></code>
 <code><img alt="SQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-15.png" /></code>
 <code><img alt="php" width="40px" src="https://www.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" /></code>
 <code><img alt="Apache2" width="40px" src="https://7-views.com/wp-content/uploads/2018/10/images_icons_products_products_apache_logo_v2-2.png" /></code>
-<code><img alt="WireShark" width="40px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wireshark-icon.png" /></code>
+<code><img alt="WireShark" width="40px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wireshark-icon.png" /></code>)
+
 <code><img alt="LaTex" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F95%2FTeXShop_icon.png%2F600px-TeXShop_icon.png&f=1&nofb=1" /></code>
 <code><img alt="Matlab" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmatlababc.files.wordpress.com%2F2015%2F08%2Fmatlab_logo.png&f=1&nofb=1" /></code>
 <code><img alt="Arduino" width="40px" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" /></code>
