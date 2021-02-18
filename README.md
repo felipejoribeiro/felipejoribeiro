@@ -55,8 +55,7 @@
 <code><img alt="Arduino" width="40px" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" /></code>
 <code><img alt="Photoshop" width="40px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" /></code>
 <code><img alt="Blender" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0c%2FBlender_logo_no_text.svg%2F1252px-Blender_logo_no_text.svg.png&f=1&nofb=1" /></code>
-<code><img alt="Catia" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fde%2Fthumb%2F6%2F6b%2FCATIA_logo.svg%2F616px-CATIA_logo.svg.png&f=1&nofb=1" /></code>
-<code><img alt="unity" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" /></code>
+<code><img alt="Catia" width="40px" src="https://www.3ds.com/fileadmin/3DS_Share/Default_images/Pages/default-200X200.jpg" /></code>
 <code><img alt="Solid works" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2huTD4pgnil4JWcoWyejZUoH1gn3Oo9Iyw&usqp=CAU"/></code>
 
 
