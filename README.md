@@ -39,8 +39,8 @@
 <code><img alt="HTML5" width="40px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
 <code><img alt="CSS" width="40px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
 <code><img alt="Sass" width="40px" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" /></code>
-<code><img alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
-<code><img alt="React" width="40px" src="https://cdn.worldvectorlogo.com/logos/react.svg" /></code>
+<code><img alt="JavaScript" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Dk_c6Kwi4JaIxYDlvE3NfQHaHa%26pid%3DApi&f=1" /></code>
+<code><img alt="React" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F19-195049_react-js-logo-svg-hd-png-download.png&f=1&nofb=1" /></code>
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
 
 [comment]: <> (<code><img alt="Deno" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" /></code>
