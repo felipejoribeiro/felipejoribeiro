@@ -33,7 +33,7 @@
 <code><img alt="Python" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fclipart-library.com%2Fnew_gallery%2F289-2896071_python-logo-png-165709.png&f=1&nofb=1" /></code>
 <code><img alt="Fortran" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkrvajalm.gallerycdn.vsassets.io%2Fextensions%2Fkrvajalm%2Flinter-gfortran%2F2.0.1%2F1540148929216%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1" /></code>
 <code><img alt="C++" width="40px" src="https://isocpp.org/files/img/cpp_logo.png" /></code>
-<code><img alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" /></code>
+<code><img alt="C#" width="40px" src="https://camo.githubusercontent.com/369a566d07a0328bc24635d41213b63d224871694410dd9e5f172fb1c8fbb41d/68747470733a2f2f6c6f676f6469782e636f6d2f6c6f676f2f3737333632342e706e67" /></code>
 <code><img alt="Visual studio code" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FVisual_Studio_Code_1.35_icon.svg%2F1200px-Visual_Studio_Code_1.35_icon.svg.png&f=1&nofb=1" /></code>
 <code><img alt="Vim" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" /></code>
 <code><img alt="HTML5" width="40px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
