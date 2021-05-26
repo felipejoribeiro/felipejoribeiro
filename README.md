@@ -61,7 +61,6 @@
 
 ### Some fun projects:
 - [feliperibeiro.space](https://feliperibeiro.space/): Developed with css, html and javascript. A personal portfolio website.
-- [Agni3D](http://agni3d.com/): Developed with css, html and javascript. A market place for 3D printing stuff.
 - [Simple TODO](https://felipejoribeiro.github.io/simple_todo/): Developed with css, html and javascript. A place in the web to get stuff done, in a simple way.
 - [Gradient BACKGROUND GENERATOR](https://felipejoribeiro.github.io/simple_back_ground_picker/): Developed with css, html and javascript. Beautiful css gradients generator.
 
