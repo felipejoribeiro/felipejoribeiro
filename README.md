@@ -4,7 +4,7 @@
 
 
 - 👨 I’m currently working on:
-  - 3D print automation.
+  - 3D printing automation.
   - Fluid mechanics research.
   - Full Stack Web development.
   - Unity Game development.
