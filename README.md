@@ -44,17 +44,11 @@
 [comment]: <> (<code><img alt="Deno" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" /></code>
 <code><img alt="NodeJs" width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></code>
 <code><img alt="SQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-15.png" /></code>
-<code><img alt="php" width="40px" src="https://www.iconfinder.com/data/icons/popular-services-brands/512/php-512.png" /></code>
-<code><img alt="Apache2" width="40px" src="https://7-views.com/wp-content/uploads/2018/10/images_icons_products_products_apache_logo_v2-2.png" /></code>
-<code><img alt="WireShark" width="40px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/wireshark-icon.png" /></code>)
 
 <code><img alt="LaTex" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F95%2FTeXShop_icon.png%2F600px-TeXShop_icon.png&f=1&nofb=1" /></code>
-<code><img alt="Matlab" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmatlababc.files.wordpress.com%2F2015%2F08%2Fmatlab_logo.png&f=1&nofb=1" /></code>
 <code><img alt="Arduino" width="40px" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" /></code>
-<code><img alt="Photoshop" width="40px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" /></code>
 <code><img alt="Blender" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0c%2FBlender_logo_no_text.svg%2F1252px-Blender_logo_no_text.svg.png&f=1&nofb=1" /></code>
-<code><img alt="Catia" width="40px" src="https://www.3ds.com/fileadmin/3DS_Share/Default_images/Pages/default-200X200.jpg" /></code>
-<code><img alt="Solid works" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2huTD4pgnil4JWcoWyejZUoH1gn3Oo9Iyw&usqp=CAU"/></code>
+
 
 
 
