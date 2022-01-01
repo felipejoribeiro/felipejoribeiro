@@ -23,7 +23,6 @@
 
 
 ### Some fun projects:
-- [feliperibeiro.space](https://feliperibeiro.space/): Developed with css, html and javascript. A personal portfolio website.
 - [Simple TODO](https://felipejoribeiro.github.io/simple_todo/): Developed with css, html and javascript. A place in the web to get stuff done, in a simple way.
 - [Gradient BACKGROUND GENERATOR](https://felipejoribeiro.github.io/simple_back_ground_picker/): Developed with css, html and javascript. Beautiful css gradients generator.
 
