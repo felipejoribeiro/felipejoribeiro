@@ -3,16 +3,10 @@
 <div style="font-size:1rem;display: flex;flex-direction: column; align-items:center;justify-content: center;font-family: 'Times', sans-serif;">
 
 
-- 👨 I’m currently working on:
-  - 3D printing automation.
-  - Fluid mechanics research.
+- 🚀 I’m currently working on:
   - Full Stack Web development.
   - Unity Game development.
-  
-- 👶 I’m currently learning:
-  - Artificial intelligence.
-  - Image and 3D geometry processing.
-  - Operating systems.
+  - VR and AR development.
   
 - ⚡ Fun fact: I love art stuff too (that`s why there is a DeviantArt account bellow).
 
@@ -26,28 +20,6 @@
 [![ArtStation Badge](https://img.shields.io/badge/-ArtStation-2A79C6?style=flat-square&logo=ArtStation&logoColor=white&link=https://www.artstation.com/felipejoribeiro)](https://www.artstation.com/felipejoribeiro)
 [![DevianArt Badge](https://img.shields.io/badge/-DeviantArt-2F4B2F?style=flat-square&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/felipejoseoliveira)](https://www.deviantart.com/felipejoseoliveira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feliperibeiro.ufu@gmail.com)](mailto:feliperibeiro.ufu@gmail.com)
-
-### Some tools and languages:
-<code><img alt="Python" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fclipart-library.com%2Fnew_gallery%2F289-2896071_python-logo-png-165709.png&f=1&nofb=1" /></code>
-<code><img alt="Fortran" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkrvajalm.gallerycdn.vsassets.io%2Fextensions%2Fkrvajalm%2Flinter-gfortran%2F2.0.1%2F1540148929216%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1" /></code>
-<code><img alt="C++" width="40px" src="https://isocpp.org/files/img/cpp_logo.png" /></code>
-<code><img alt="C#" width="40px" src="https://camo.githubusercontent.com/369a566d07a0328bc24635d41213b63d224871694410dd9e5f172fb1c8fbb41d/68747470733a2f2f6c6f676f6469782e636f6d2f6c6f676f2f3737333632342e706e67" /></code>
-<code><img alt="Visual studio code" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FVisual_Studio_Code_1.35_icon.svg%2F1200px-Visual_Studio_Code_1.35_icon.svg.png&f=1&nofb=1" /></code>
-<code><img alt="Vim" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" /></code>
-<code><img alt="HTML5" width="40px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
-<code><img alt="CSS" width="40px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
-<code><img alt="Sass" width="40px" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" /></code>
-<code><img alt="JavaScript" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Dk_c6Kwi4JaIxYDlvE3NfQHaHa%26pid%3DApi&f=1" /></code>
-<code><img alt="React" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F19-195049_react-js-logo-svg-hd-png-download.png&f=1&nofb=1" /></code>
-<code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
-<code><img alt="NodeJs" width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></code>
-<code><img alt="SQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-15.png" /></code>
-<code><img alt="LaTex" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F95%2FTeXShop_icon.png%2F600px-TeXShop_icon.png&f=1&nofb=1" /></code>
-<code><img alt="Arduino" width="40px" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" /></code>
-<code><img alt="Blender" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0c%2FBlender_logo_no_text.svg%2F1252px-Blender_logo_no_text.svg.png&f=1&nofb=1" /></code>
-
-
-
 
 
 ### Some fun projects:
