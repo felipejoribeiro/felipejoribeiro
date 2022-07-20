@@ -8,7 +8,7 @@
   - Godot Game development.
   - VR and AR technology.
   
-- ⚡ Fun fact: I love art stuff too (that`s why there is a DeviantArt account bellow).
+- ⚡ Fun fact: I love drawing (check my DeviantArt profile).
 
 <div>
 
