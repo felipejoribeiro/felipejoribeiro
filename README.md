@@ -5,7 +5,7 @@
 
 - 🚀 I’m currently working on:
   - Full Stack Web development.
-  - Unity Game development.
+  - Godot Game development.
   - VR and AR development.
   
 - ⚡ Fun fact: I love art stuff too (that`s why there is a DeviantArt account bellow).
