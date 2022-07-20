@@ -20,11 +20,6 @@
 [![DevianArt Badge](https://img.shields.io/badge/-DeviantArt-2F4B2F?style=flat-square&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/felipejoseoliveira)](https://www.deviantart.com/felipejoseoliveira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feliperibeiro.ufu@gmail.com)](mailto:feliperibeiro.ufu@gmail.com)
 
-
-### Some fun projects:
-- [Simple TODO](https://felipejoribeiro.github.io/simple_todo/): Developed with css, html and javascript. A place in the web to get stuff done, in a simple way.
-- [Gradient BACKGROUND GENERATOR](https://felipejoribeiro.github.io/simple_back_ground_picker/): Developed with css, html and javascript. Beautiful css gradients generator.
-
 ---
 
 [![](./profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
