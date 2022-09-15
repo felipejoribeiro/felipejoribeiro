@@ -1,19 +1,3 @@
-<h1 align="center">Felipe J. O. Ribeiro</h1>
-
-<div style="font-size:1rem;display: flex;flex-direction: column;justify-content: center;">
-
-- 🚀 I’m currently working on:
-  - Full Stack Web development.
-  - Godot Game development.
-  - VR and AR technology.
-  
-- ⚡ Fun fact: I love drawing.
-<div>
-
----
-
-[![](./profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
----
 <style>
   .medium {
     border-radius: 10px;
@@ -23,6 +7,11 @@
     margin-left: 20px;
   }
 </style>
+
+
+...
+
+---
 
 
 <img align="right" class="medium" src="https://cdn-images-1.medium.com/max/1024/1*3xyo1Fsul6l2kHMP1ahsqA.png" height=150>
