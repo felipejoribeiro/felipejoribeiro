@@ -1,0 +1,19 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .medium {
+          border-radius: 10px;
+          width: 200px;
+          height: 150px;
+          object-fit: cover;
+          margin-left: 20px;
+        }
+      </style>
+
+      <img align="right" class="medium" src="https://cdn-images-1.medium.com/max/1024/1*3xyo1Fsul6l2kHMP1ahsqA.png">
+      <img align="right" class="medium" src="https://cdn-images-1.medium.com/max/1024/1*OQ-1Zgvo5Y9SgcItJuuDzw.png">
+
+    </div>
+  </foreignObject>
+</svg>

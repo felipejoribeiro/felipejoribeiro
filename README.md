@@ -40,6 +40,10 @@ How to use Watchdog in Linux systems? Especially, with Raspberry pi zeros? Watch
 ... And more in [Medium.com](https://fejori.medium.com)
 ---
 
+<img src="./resources/medium.svg" width="100%">
+
+---
+
 <p align='center'>
     <a href='https://github.com/felipejoribeiro?tab=repositories&sort=stargazers'>
         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/felipejoribeiro'/>
