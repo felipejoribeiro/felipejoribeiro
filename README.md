@@ -14,15 +14,6 @@
 
 [![](./profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ---
-<style>
-  .medium {
-    border-radius: 10px;
-    width: 200px;
-    height: 150px;
-    object-fit: cover;
-    margin-left: 20px;
-  }
-</style>
 
 
 <img align="right" class="medium" src="https://cdn-images-1.medium.com/max/1024/1*3xyo1Fsul6l2kHMP1ahsqA.png" height=150>
@@ -38,9 +29,6 @@ How to use Watchdog in Linux systems? Especially, with Raspberry pi zeros? Watch
 
 
 ... And more in [Medium.com](https://fejori.medium.com)
----
-
-<img src="./resources/medium.svg" width="100%">
 
 ---
 
