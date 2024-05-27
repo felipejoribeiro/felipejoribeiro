@@ -1,34 +1,44 @@
-<h1 align="center">Felipe J. O. Ribeiro</h1>
-
-<div style="font-size:1rem;display: flex;flex-direction: column;justify-content: center;">
-
-- 🚀 I’m currently working on:
-  - Full Stack Web development.
-  - Godot Game development.
-  - VR and AR technology.
-  
-- ⚡ Fun fact: I love drawing.
-<div>
-
----
-
-[![](./profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
----
-
-
-<img align="right" class="medium" src="https://cdn-images-1.medium.com/max/1024/1*3xyo1Fsul6l2kHMP1ahsqA.png" height=150>
-
-#### [Create your own private GitHub in 3 simple steps!](https://medium.com/snackin/create-your-own-private-github-in-3-simple-steps-be4663d5c8db?source=rss-4c116c57db7------2)
-Make your own private Git repository today! Even better… Running only on bare minimum scripts and Git itself. A simple and informative guide.
-
-
-<img align="right" class="medium" src="https://cdn-images-1.medium.com/max/1024/1*OQ-1Zgvo5Y9SgcItJuuDzw.png" height=150>
-
-#### [Rock stable: Watchdog-enabled Linux!](https://medium.com/snackin/rock-stable-watchdog-enabled-linux-a2b3b60ee02b?source=rss-4c116c57db7------2)
-How to use Watchdog in Linux systems? Especially, with Raspberry pi zeros? Watch out for rock-stable embedded hardware on a budget!
-
-
-... And more in [Medium.com](https://fejori.medium.com)
+```txt
+  .     .                 ..    ..   .               .... ..  .     .     .    . ...
+.   ................................                .....    ..     .       .  ....  .   .     ..
+  .....................................            ...  ...               .    ...........  . ...
+           . .   ................ . .              ..   .  ...        ... ...''...................
+        ..        ................ ....     .                       ...............................
+         .     .. ......................  ....   .               ..  ................,,''''''.......... ...
+ .       .     ............'.............'.....  .':...   .............  ..........';:;,:;;'''...'..'.'......
+       . . .  ....................,................'..    . ......................'';cccc:;;,,,'...''.......
+      .        .................''',;;'',''''...............................,...'',,;;:l:;;;,''..,..'..'......
+.                .......'..'....''',;ll::;,,,'''''....'''..........'......,o'....;,;'',;;;,''';'''''..'',.....
+              .   ......''.'',','',;';llloo::;;::c:;;;:l:::,'''''''''............,;,,,';:;'''.'....';,,;,'.'..
+         . .........'...'',,c:,,,,'',,;:;clldooodxooodxxxxxdollcc:;,'..........''.,,'''';,:'''..'...',:::;''..
+           .....''..','',:::c:,,:,,,';,',;ccccldO0000KkdollodOK0Oxoc:;''''''',;,;,.'',',;;;,''''..'';:::c:,...
+      ....'''''...''':;:cccclc::ll;::cl:;lddlldkOK0l.          'oK0koc;,''',:ldoll:,,;;,,,,.'','',:lccllll,''.
+    .......'.'','';;;;:c::clllccclooodxclldxxxOKK:                cKOdc:,'',cOKkooc',;:,,''''',;;coollllldl,;.
+    . .....',,,';clllcoddddlcloldxxddoclddddxk00.                  .K0dl:,',:cllcll,,,,,'',:;:dc:cccoddkxxxc;'
+   ........',;;::coc:::llxkdollloddoooooolllx0X'                    ;XOdc;,,,;;;;:l,;;;,,.';;;:cccccodddoldl:,
+  .......':lc::;;::clcdloxxkkookdddoccc:::;ld00                      X0xlc:;,;;::::;;;;,;,;:llodlllllloooooc:;
+   .....'cdc:;;;:cdod:ldxoodllloddol::;;:;:ld00     fejori.online    X0xo:;;;;::c;clddodKxlllddooooocllododc:;
+ . ..'';cl:;,,;ldlllc;;loc:::::lllco:;;,;,:coOX,                    :XOdl:;;;;:lcccoxXNOxodkOkkdlodl:,;:cll;,'
+....';:cdooocccloooll:;::cocclolc;::::,,,,;:cd0K'                  ,KOdlc;;;;::lodxkO0K0ddOOdlxdocc:;,;:ol,'..
+ ...,::cooooocclloloolc:colllc::ccc:;;,,,''';coOKl               .dKkdc;,,;;:ccdxxxOxk0Oxoolxcllc:;;::coc,....
+  ...':ldlloodoccccl:::::ccloc::l:::::,,''..',;ldO0d,.        .;dKOxlc:,,,,,lcloodxOkkkxkkll:::co::::;;,......
+   ..,;lxxxkxxolc:::o::c:cccccocllllcl:'......',:loxO00kddodk00Oxdolcccck0xccdxdkOOkxk0O0kxolclllc;,,,,'......
+   ...;,odollllclc::;;;;;;;ccldlddodxdl;'......',:;;cclooddddxdlc:::::clkkdcodoooodo;;;llcclc;:c:,''''''....
+ .....'';olllccoc;;;;;:::;;cllccooooddc;........,,....',:ox::c:l:,;c::cdxl::docc:lc;,:::ccc:::,,'..'''','.....
+    ....':ccccc;,',;ccc:c:;;cc:;;::::;;,'''............,;,;:;,,;cdd:;;;::;,',;,,,,:,,:::::;;,,'..''..'...
+     ...';::cc::;;;::cccc:;;,,;;;,:,''.........................,;oolloolcc;;,,,'',,,,:l;,''..''......... .
+     ....',:;:ccc::::c::ccc:,,;;:;'''..........................',::;;;cclollc,';,'',';,''''.......  ..
+      ....,'''',;:::c:::c::;;;,,,,....'o,......'...  . .  ......',''.',,;:cclc,,''.....'..''......
+      ..........';::::;;cc:c::;;,,'...,'.............    ..   ........'''',,,::,'',.............. .         .
+       ..........'.,;::::;;:::;,,.'............   ...           .  ............',....................    . .
+        . . ..'.....',,,;;;;,;,,.........   ...  .....      .        ....'.............'............     .
+            .........''',;;;;:,'............ .                       ..... ...................... .. .;;.. .
+                 .......'',,,''................      .               ....   .....................     .. ..
+                  ..................,.... ..         ...                    .     ...............
+                   .. .  .............. .  .            ....  .         .        ...........................
+                         .   .  ....  .                   .. .                  ..............................
+                              .....           '.   .'...  ....                   .......   .      ...........
+```
 
 ---
 
